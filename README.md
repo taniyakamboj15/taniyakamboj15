@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taniyakamboj15
 - 👀 I’m interested in HTML,CSS,Javascrpit,Java,Data Structure
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning MCA
 - 📫 How to reach me through LinkedIn profile - https://www.linkedin.com/in/taniya-kamboj-282058276
 
 <!---
