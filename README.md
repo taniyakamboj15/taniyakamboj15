@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Master's in Computer Appl
 Here are some of the projects I've worked on:
 - **Currency Converter**: A web app for real-time currency conversion.
 - **Swiggy Clone**: A front-end clone of the popular food delivery platform.
+- **NetFlix Gpt**: A front-end clone of popular entertainment platform and is also integrated with the superpower of AI.
 - **Tic Tac Toe**: A classic game implemented using HTML, CSS, and JavaScript.
 
 ## 🌟 Goals
