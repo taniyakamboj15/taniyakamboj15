@@ -11,7 +11,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=taniyakamboj15&style=flat-square&color=blue" alt=""/></div>
 <p align="left" >
-<h1>Hi there, I'm Taniya!</h1>(https://github.com/user-attachments/assets/addc711b-4496-4dd4-b488-a53a25f6bd1d)
+<h1>Hi there, I'm Taniya!</h1>https://github.com/user-attachments/assets/addc711b-4496-4dd4-b488-a53a25f6bd1d
 
   </p>
 <table>
