@@ -1,5 +1,5 @@
-# Hi there, I'm Taniya! 👋
-<div id="badges">
+
+<div id="badges " align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -7,7 +7,10 @@
     <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Porfolio Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=taniyakamboj15&style=flat-square&color=blue" alt=""/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=taniyakamboj15&style=flat-square&color=blue" alt=""/></div>
+
+# Hi there, I'm Taniya! 👋
 
 Welcome to my GitHub profile! I'm currently pursuing a Master's in Computer Applications (MCA) and have a passion for technology and coding. Here's a little about me:
 
