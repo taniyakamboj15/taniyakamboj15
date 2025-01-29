@@ -76,6 +76,6 @@ Here are some of the projects I've worked on:
 - Collaborate on exciting projects
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taniyakamboj15&theme=darcula&border_radius=5)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=taniyakamboj15&theme=gruvbox&border_radius=5&card_width=500&card_height=198" alt="GitHub Streak" /></a>
 
 Feel free to explore my repositories and drop a message if you want to collaborate or just say hi. Let's learn and grow together! 🚀
