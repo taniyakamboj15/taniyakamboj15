@@ -77,7 +77,7 @@ Here are some of the projects I've worked on:
 - Contribute to open-source projects
 - Collaborate on exciting projects
 ---
-<table><tr> <td>my Stats</td><td>img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200"></td></tr></table>
+<table><tr> <td>my Stats</td><td><img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200"></td></tr></table>
 ###  My Stats :
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
 
