@@ -79,7 +79,7 @@ Here are some of the projects I've worked on:
 ---
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="70" />
-  <strong>My Stats</strong>
+   <span style="font-size: 24px; font-weight: bold;">My Stats</span>
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taniyakamboj15&theme=darcula&border_radius=5)](https://git.io/streak-stats)<br>
