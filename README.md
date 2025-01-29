@@ -77,10 +77,10 @@ Here are some of the projects I've worked on:
 - Contribute to open-source projects
 - Collaborate on exciting projects
 ---
-<p>
+<h2>
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="70" />
-  <h2>My Stats</h2>
-</p>
+  My Stats
+</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taniyakamboj15&theme=darcula&border_radius=5)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyakamboj15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
