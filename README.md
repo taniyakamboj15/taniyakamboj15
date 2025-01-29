@@ -6,9 +6,6 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Porfolio Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 Welcome to my GitHub profile! I'm currently pursuing a Master's in Computer Applications (MCA) and have a passion for technology and coding. Here's a little about me:
