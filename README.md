@@ -11,7 +11,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=taniyakamboj15&style=flat-square&color=blue" alt=""/></div>
 <p align="left" >
-<h1>Hi there, I'm Taniya!</h1> <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxNDgwNjUsIm5iZiI6MTczODE0Nzc2NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDEwNDkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzM2YwMzc5NTJlOWYxOTNmYzQwZDA3MWE2YmRiZjI2NDhkZTY3MWFhZWFiZDYzODM0Nzk4Y2JmNjE3YmRmODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Dtrqi0RwwaKr2rsIOxbTko6FjoBmvK9GaNXvLnXzc5I" />
+<h1>Hi there, I'm Taniya!</h1>
   </p>
 <table>
   <tr>
