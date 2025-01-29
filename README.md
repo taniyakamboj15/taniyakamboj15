@@ -12,7 +12,7 @@
 
 # Hi there, I'm Taniya! 👋
 <div>
-  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=ecf05e47lq140iib1840caa4b06pbawrbr828iwacwbatosm&ep=v1_gifs_related&rid=200.webp&ct=g" width="600" height="300" />
+  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=ecf05e47lq140iib1840caa4b06pbawrbr828iwacwbatosm&ep=v1_gifs_related&rid=200.webp&ct=g" width="500" height="300" />
 </div>
 
 Welcome to my GitHub profile! I'm currently pursuing a Master's in Computer Applications (MCA) and have a passion for technology and coding. Here's a little about me:
