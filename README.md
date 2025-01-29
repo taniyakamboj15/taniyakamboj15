@@ -77,10 +77,10 @@ Here are some of the projects I've worked on:
 - Contribute to open-source projects
 - Collaborate on exciting projects
 ---
-<div align="center" style="display: flex; justify-content: center; align-items: center; height: 300px;">
+<p align="center">
   <strong>My Stats</strong><br>
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200">
-</div>
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taniyakamboj15&theme=darcula&border_radius=5)](https://git.io/streak-stats)
 
