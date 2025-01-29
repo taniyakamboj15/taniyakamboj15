@@ -38,6 +38,7 @@
   - Java
   - Data Structures and Algorithms (DSA)
 ---
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500">
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -81,5 +82,3 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories and drop a message if you want to collaborate or just say hi. Let's learn and grow together! 🚀
 
-
-Feel free to explore my repositories and drop a message if you want to collaborate or just say hi. Let's learn and grow together! 🚀
