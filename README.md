@@ -16,11 +16,11 @@
   <tr>
     <td>
       <p align="left">
-        Welcome to my GitHub profile! I'm currently pursuing a Master's in Computer Applications (MCA) and have a passion for technology and coding. Here's a little about me:
+        Welcome to my GitHub profile! I'm currently pursuing a Master's in Computer Applications (MCA) from Graphic Era Deemed to be University and have a passion for technology and coding. Here's a little about me:
       </p>
     </td>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwbmdhejYxcGduYzR3aXYwc2g4djZ6OHN1b3V3ZGNrM21hZnFycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp" width="500" height="400"/>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwbmdhejYxcGduYzR3aXYwc2g4djZ6OHN1b3V3ZGNrM21hZnFycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp" width="500" height="380"/>
     </td>
   </tr>
 </table>
