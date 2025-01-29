@@ -13,8 +13,6 @@
 <p align="left" >
 <h1>Hi there, I'm Taniya!</h1>
   </p>
-  ![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/c3f8b6a1-c6dc-4d1c-8a8e-6e2c516da21b)
-
 <table>
   <tr>
     <td>
