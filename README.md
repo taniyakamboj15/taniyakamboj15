@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=taniyakamboj15&style=flat-square&color=blue" alt=""/></div>
-<div algin="left" text="bold">
+<div algin="left" >
 **Hi there, I'm Taniya!** 👋
   </div>
 <div align="right">
