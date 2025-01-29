@@ -9,8 +9,8 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=taniyakamboj15&style=flat-square&color=blue" alt=""/></div>
-<div algin="left">
-#Hi there, I'm Taniya! 👋
+<div algin="left" text="bold">
+Hi there, I'm Taniya! 👋
   </div>
 <div align="right">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFwbmdhejYxcGduYzR3aXYwc2g4djZ6OHN1b3V3ZGNrM21hZnFycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp" width="400" height="400" />
