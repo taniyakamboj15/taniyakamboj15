@@ -1,4 +1,5 @@
-
+<div>
+  <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxNDgwNjUsIm5iZiI6MTczODE0Nzc2NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDEwNDkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1Y2U0NmY0YjNhYWFmZmU3N2IxYmI4YWZlNmNhNzFmNDQ2MjZmMWJkYWRiMWU4ZGU3NGQwZGVmZGE1MDJmN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.B6LpthM21n5h238-38SE_2H8Hq4hs3pDryMhzfekP2M" alt="girl doing webdev" />
 <div id="badges " align="center">
   <a href="https://www.linkedin.com/in/taniya-kamboj-282058276">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
