@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/taniya-kamboj-282058276">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="taniyakamboj.info">
     <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Porfolio Badge"/>
   </a>
 </div>
