@@ -80,6 +80,7 @@ Here are some of the projects I've worked on:
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=taniyakamboj15&theme=darcula&border_radius=5)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taniyakamboj15&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to explore my repositories and drop a message if you want to collaborate or just say hi. Let's learn and grow together! 🚀
 
